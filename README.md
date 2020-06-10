@@ -1,2 +1,2 @@
-# aulas
-Aulas sobre html5 css3 e javascript
+# Aulas de Programação
+Exercicios Python
